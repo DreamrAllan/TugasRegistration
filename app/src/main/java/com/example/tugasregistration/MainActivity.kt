@@ -1,4 +1,4 @@
-package com.example.signupapp
+package com.example.tugasregistration
 
 import android.os.Bundle
 import android.widget.Toast
